@@ -1,4 +1,4 @@
-# Concepts reactjs - Challenge
+# Concepts ReactJS - Challenge
 
 <p size=2>
   <img src="./src/assets/animatedGIF.gif">
